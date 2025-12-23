@@ -4,3 +4,5 @@ this website is in testing stage right now. please scroll down to see more comic
 ![comic2](comic2.jpeg)
 ![comic3](comic3.jpeg)
 ![comic4](comic4.jpeg)
+![comic5](comic5.jpeg)
+![comic6](comic6.jpeg)
